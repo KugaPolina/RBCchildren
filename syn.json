@@ -1,0 +1,124 @@
+{
+   "languages":[
+      "ru",
+      "en"
+   ],
+   "translation":[
+      {
+         "ru":"Прогностический калькулятор дозы эритроцитной взвеси для детей в онкогематологии",
+         "en":"Red blood cell unit dose prognostic calculator in pediatric hematology"
+      },
+      {
+         "ru":"- доза для коррекции анемии, не связанной с геморрагическим синдромом",
+         "en":"Dose for anemia correction not associated with hemorrhagic syndrome"
+      },
+      {
+         "ru":"- масса тела реципиента ≤30 кг",
+         "en":"Weight ≤ 30 kg"
+      },
+      {
+         "ru":"- эритроцитная взвесь (лейкоредуцированная)",
+         "en":"Leukodepleted red blood cells suspension"
+      },
+
+      
+      {
+         "ru":"МДС, ЮММЛ",
+         "en":"MDS, JMML"
+      },
+      {
+         "ru":"Иное",
+         "en":"Other"
+      },
+
+      {
+         "ru":"Избыток массы тела",
+         "en":"Overweight"
+      },
+      {
+         "ru":"Гепатоспленомегалия",
+         "en":"Hepatosplenomegaly"
+      },
+      {
+         "ru":"Фебрильная",
+         "en":"Febrile"
+      },
+
+      {
+         "ru":"Заболевание",
+         "en":"Disease"
+      },
+
+      {
+         "ru":"Возраст, мес.",
+         "en":"Age, month"
+      },
+
+      {
+         "ru":"Индекс массы тела",
+         "en":"Body mass index"
+      },
+      {
+         "ru":"Органомегалия",
+         "en":"Organomegaly"
+      },
+      {
+         "ru":"Температура",
+         "en":"Temperature"
+      },
+      
+      {
+         "ru":"Диапазон вероятного прироста Hb, г/л ",
+         "en":"Range of probable Hb elevation, g/l"
+      },
+      
+      {
+         "ru":"Доза эритроцитной взвеси, мл/кг ",
+         "en":"Red blood cell dose, ml/kg"
+      },
+
+      {
+         "ru":"Эффективная и безопасная доза эритроцитной взвеси в текущих клинических условиях, с вероятностью более 90%.",
+         "en":"More than 90% red blood cell dose effectiveness and safeness chance in current clinical conditions "
+      },
+      {
+         "ru":" мл/кг",
+         "en":" ml/kg "
+      },
+
+
+      {
+         "ru":"* В дозе менее ",
+         "en":"* At a dose of less than "
+      },
+      {
+         "ru":"* В дозе более ",
+         "en":"* At a dose of more than "
+      },
+
+      
+      {
+         "ru":" мл/кг - трансфузия может быть неэффективна (прирост Hb < 10г/л), вероятнее потребуется повторная трансфузия для достижения клинического эффекта",
+         "en":" ml/kg, transfusion maybe ineffective (Hb elevation < 10 g/l); repeated transfusion is more likely to be required to achieve a clinical effect"
+      },
+      
+      {
+         "ru":"© Куга П.С., клиника «НИИ Детской онкологии, гематологии и трансплантологии им.Р.М.Горбачевой» ФГБОУ ВО ПСПбГМУ им.И.П.Павлова  МЗ РФ.",
+         "en":"© Polina S.Кuga. RM Gorbacheva Research Institute, Pavlov University, Lev Tolstoy Str., 6/8, 197022"
+      },
+
+
+      {
+         "ru":" мл/кг - возрастает вероятность неконтролируемого подъема уровня Hb > 30г/л, что может повысить риск развития осложнений, связанных с резким подъемом гематокрита",
+         "en":" ml/kg, the chance of an uncontrolled Hb > 30 g/l elevation increases, which may enhance the risk of complications associated with a rapid hematocrit rise "
+      }
+
+   ]
+}
+
+
+ 
+
+
+
+
